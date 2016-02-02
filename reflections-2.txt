@@ -1,3 +1,7 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 --It allows you to create meaningful commits that are cleanly separated and logical
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+--Creating new features, working on bug fixes. They would help by separating your code into separate areas containing only items related to what you're working on rather than having everything all in one place.
