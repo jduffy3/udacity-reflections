@@ -11,3 +11,11 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 --Because the merge involves merging two separate pieces of work into one. This means there is a set of parents that need to be represented and results one finished piece representing two separate bodies of work.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Pros
+Automatic merging saves time
+Manual merging ensures we merge the changes that we want and are important in the up-to-date code
+Con
+Automatic merging could create problems for us and its not always easy to know which changes to automatically incorporate
+Manual merging can be time consuming
