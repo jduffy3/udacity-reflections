@@ -17,3 +17,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 that could also be done as above or maybe sending out memory sticks. It seems it would overall be much harder as
 there would be many more different areas to check in order to collaborate. Using Git or GitHub seems to centralize
 where communication takes place and Git allows everyone to be familiar with one type of tool.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+--If I were working on a bug, feature, or something I wanted to experiment with. By creating another branch
+this allows me to make any changes with confidence knowing that my master branch isn't tampered with. The confidence
+being that if I make a change in my private branch I hopefully won't break anything in master at least until I merge!
