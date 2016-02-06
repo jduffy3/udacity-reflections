@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 --Forks makes a copy of a GitHub repo to your own account. You might fork a repo if you don't have the repo owners permission to make changes.
 --Clones allow you to copy a repo. This I guess could be used as a backup if you're really worried of losing data! 
 --Branches allow you to 'branch' off into another direction on a repo. You would use a branch if you're working on a repo and would like to make new changes that you might not be ready to commit altogether into your master branch until it is fully working and operational.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+--This allows you to work offline with the latest changes commited in origin. This also allows you to update your private
+branches to contain those changes committed to origin.
